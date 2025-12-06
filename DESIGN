@@ -1,0 +1,4 @@
+The primary goal of the design structure was to keep everything as modular and reusable as possible. almost all the coupling is loose, so that the master/child relationships can theoretically be any classes. 
+The buttons and button handler were probably the most difficult parts. It took a lot of tinkering to allow the buttons to issue commands when pressed, but still keep the loose coupling. 
+The messiest part of the code and the place that needs improvement the most is the get from files library. Currently, it does not have great modularity. Every time I want something, 
+I have to create a new function that calls the abstract get_from_line_by_keyword() function. It works, it just gets really messy really fast. 
