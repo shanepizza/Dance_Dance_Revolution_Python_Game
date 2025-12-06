@@ -1,0 +1,23 @@
+Buttons screen (Right side)
+------------------------------------
+ButtonSize:
+ShadowColor:
+RightScreenBackgroundColor: orange
+
+
+
+Game Screen (Left side)
+-----------------------------------
+LeftScreenBackgroundColor: brown
+ArrowSize:
+
+
+
+ButtonStyle: TButton
+NormalButtonWidth: 15
+NormalButtonHeight: 5
+NormalButtonPadding: 10
+
+ScrollingArrowsCanvasBackgroundColor: red
+
+

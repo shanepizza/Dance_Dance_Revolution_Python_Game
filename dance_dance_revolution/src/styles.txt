@@ -1,0 +1,11 @@
+ButtonStyle: TButton
+NormalButtonWidth: 15
+NormalButtonHeight: 5
+NormalButtonPadding: 10
+
+
+
+
+ScrollingArrowsCanvasBackgroundColor: red
+RightScreenBackgroundColor: lightgreen
+LeftScreenBackgroundColor: red
