@@ -1,0 +1,28 @@
+Window config
+------------------------------------------------
+Title: Dance Dance Revolution
+WindowSize: 800x600
+StyleSheetFile: styles.txt
+
+
+-------------------------------------------------
+RefreshRate: 60
+UnitTimePerSecond: 1000
+"   
+    FPS = UnitTimePerSecond/RefreshRate
+    Default: 1000/60 = 16.67 ms per frame
+    This is how long to wait before running the refresh command
+"
+
+Sprite info
+----------------------------
+ImagesPath: assets/images/
+ArrowSpeed: 1
+ArrowPixelSize: 30
+
+Button Info
+-----------------------------
+ButtonPixelSize: 50
+
+
+
